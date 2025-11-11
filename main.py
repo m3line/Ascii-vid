@@ -4,7 +4,7 @@ import numpy as np
 import math
 
 
-fileName="red_car.mp4"
+fileName="test.mp4"
 chars = " .'`^\",:;Il!i><~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
 charlist=list(chars)
 charlen=len(charlist)
